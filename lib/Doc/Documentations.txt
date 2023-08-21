@@ -1,0 +1,2 @@
+https://developer.android.com/topic/performance/vitals/launch-time#themed
+https://docs.flutter.dev/platform-integration/android/splash-screen?tab=android-splash-alignment-kotlin-tab
